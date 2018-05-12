@@ -1,0 +1,31 @@
+_repo: De-M.-Terenti-Varronis-Libris-Grammaticis_16400
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Varro, Marcus Terentius
+    gutenberg_agent_id: '6680'
+    url: http://www.gutenberg.org/2009/agents/6680
+    wikipedia: http://en.wikipedia.org/wiki/Marcus_Terentius_Varro
+  editor:
+    agent_name: Wilmanns, Augustus
+    birthdate: 1835
+    gutenberg_agent_id: '6681'
+    url: http://www.gutenberg.org/2009/agents/6681
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2005-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16400'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Varro, Marcus Terentius'
+- !lcc 'PA'
+title: De M. Terenti Varronis Libris Grammaticis
+url: http://www.gutenberg.org/ebooks/16400
